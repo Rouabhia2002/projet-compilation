@@ -1,0 +1,36 @@
+int K ,T , P , PPPP,EE
+#Qss525
+int Tabb[28]
+float INT[-20]
+#AEEEE233
+bool P
+bool K
+char TT,K 
+NOOO=5
+#A=10
+A=4/0
+P=7+8*(30)*45+(50)
+A=’DD’
+P=Z/0
+H=7+8*9*(2)
+#Zeeee
+if(A==N):
+	Z=LLL+6
+	Z=Z+1
+else:
+	Z=N+1
+if(A and B or not Q):
+	Y=LLL*(50)
+	B=AMIRA
+if(K==52):
+	Z=LLL
+	Z=SS+85
+else:
+	Z=SAAAA
+while(PP<P):
+	Z=MOOOO
+for IAA in Tab:
+	A=ZZ
+for IAA in range (0,5):
+	A=QQQ
+ 
